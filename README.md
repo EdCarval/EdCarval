@@ -49,6 +49,14 @@ Apaixonado por tecnologia e logística. Experiência em diversos projetos nos se
 />
 <img 
     align="left" 
+    alt="Arduino" 
+    title="Arduino"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/arduino/default.svg" 
+/>
+<img 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 

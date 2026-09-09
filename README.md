@@ -3,7 +3,7 @@
 
 Apaixonado por tecnologia e logística. Experiência em diversos projetos nos segmentos de entretenimento, identificação civil, segurança pública, automação comercial, distribuidores e sistemas de saúde.  
 
-**`Códigos e portifólio em Manutenção e tranferência para o GIT`**
+**`Portifólio em manutenção e transferência para o GIT`**
 ---
 
 ### 🤖 Linguagens e Tecnologias

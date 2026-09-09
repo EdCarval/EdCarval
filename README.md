@@ -69,7 +69,7 @@ Apaixonado por tecnologia e logística. Experiência em diversos projetos nos se
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-sql-server/default.svg" 
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-sql-server/default.svg" 
 />
 <img 
     align="left" 

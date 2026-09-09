@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Backend`**
 
-Analista de Sistemas e Tecnológo em Logística apaixonado por tecnologia. Experiência em projetos nos segmentos de entretenimento, identificação civil, segurança pública, ERP, automação comercial e saúde.  
+Apaixonado por tecnologia e logística. Experiência em diversos projetos nos segmentos de entretenimento, identificação civil, segurança pública, ERP, automação comercial e saúde.  
 
 ---
 

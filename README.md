@@ -34,10 +34,10 @@ Apaixonado por tecnologia e logística. Experiência em diversos projetos nos se
 <img 
     align="left" 
     alt="TypeScript"
-    title="TypeScript" 
+    title=".NET" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dotnet/default.svg" 
 />
 <img 
     align="left" 
@@ -57,8 +57,8 @@ Apaixonado por tecnologia e logística. Experiência em diversos projetos nos se
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="C#"
+    title="C#" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 

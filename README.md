@@ -65,11 +65,11 @@ Apaixonado por tecnologia e logística. Experiência em diversos projetos nos se
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-sql-server/default.svg" 
 />
 <img 
     align="left" 

@@ -41,35 +41,19 @@ Apaixonado por tecnologia e logística. Experiência em diversos projetos nos se
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/csharp/default.svg" 
 />
 <img 
     align="left" 
-    alt="C#"
-    title="C#" 
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mysql/default.svg" 
 />
 <img 
     align="left" 

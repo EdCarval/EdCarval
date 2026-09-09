@@ -6,9 +6,13 @@ Apaixonado por tecnologia e logística. Experiência em diversos projetos nos se
 > [!Warning]
 **ATENÇÃO: Portfólio em manutenção e transferência para o GIT**
 > 
+
+<!--
 ```diff
 - Portfólio em manutenção e transferência para o GIT
 ```
+-->
+
 ---
 
 ### 🤖 Linguagens e Tecnologias

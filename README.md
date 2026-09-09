@@ -9,8 +9,8 @@ Apaixonado por tecnologia e logística. Experiência em diversos projetos nos se
 
 <img 
     align="left" 
-    alt="TypeScript"
-    title=".NET" 
+    alt=".Net"
+    title=".Net" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dotnet/default.svg" 

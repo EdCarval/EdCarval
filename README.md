@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Edson Carvalho, sou Analista de Sistemas e Tecnológo em Logística apaixonado por tecnologia. Experiência em projetos nos segmentos de entretenimento, identificação civil, segurança pública, ERP, automação comercial e saúde.  
+Analista de Sistemas e Tecnológo em Logística apaixonado por tecnologia. Experiência em projetos nos segmentos de entretenimento, identificação civil, segurança pública, ERP, automação comercial e saúde.  
 
 ---
 

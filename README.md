@@ -3,7 +3,7 @@
 
 Apaixonado por tecnologia e logística. Experiência em diversos projetos nos segmentos de entretenimento, identificação civil, segurança pública, automação comercial, distribuidores e sistemas de saúde.  
 
-<p style="color: #ff9900; font-weight: bold;">
+<p style="color: red; font-weight: bold;">
   Portifólio em manutenção e transferência para o GIT
 </p>
 
